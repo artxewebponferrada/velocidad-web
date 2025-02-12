@@ -16,6 +16,11 @@ export default function RootLayout({
 }) {
   return (
     <html lang="es">
+      <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width" />
+      <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+      </head>
       <body className={inter.className}>{children}</body>
     </html>
   );
