@@ -3,7 +3,7 @@ export function Footer() {
     <footer className="py-8 border-t bg-background/50 backdrop-blur-sm">
       <div className="container text-center">
         <p className="text-lg font-medium text-muted-foreground">
-          Con ❤️ por{" "}
+          Hecho con ❤️ por{" "}
           <a
             href="https://artxeweb.pages.dev"
             target="_blank"
