@@ -1,7 +1,7 @@
 export function Footer() {
   return (
     <footer className="py-8 border-t bg-background/50 backdrop-blur-sm">
-      <div className="container text-center">
+      <div className="text-center">
         <p className="text-lg font-medium text-muted-foreground">
           Hecho con ❤️ por{" "}
           <a
